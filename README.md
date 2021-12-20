@@ -1,2 +1,6 @@
-# catalog_doc
-Documentation catalog website (standard definition, rules to submit, ...)
+# catalog documentation
+
+- get started 
+- overview of the catalog 
+- acronyms definition
+- metadata description
